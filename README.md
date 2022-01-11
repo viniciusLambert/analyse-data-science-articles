@@ -36,11 +36,11 @@ There are 3 notebooks available to showcase work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]() TODO: ARTICLE.
+The main findings of the code can be found at the post available [Here](https://medium.com/@viniciuslambert/how-to-make-more-attractive-articles-for-data-scientists-f96b92c1dd70)
 
 ## Data
 
-The data analysed in this notebook was collected by me, using the code present [Here] (https://github.com/viniciusLambert/medium-scraping/blob/main/scrap.ipynb).
+The data analysed in this notebook was collected by me, using the code present [Here](https://github.com/viniciusLambert/medium-scraping/blob/main/scrap.ipynb).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
